@@ -1,0 +1,74 @@
+Valien Inc.  
+
+User Stories
+
+MVP:
+Parent can login
+Parent can logout
+Parent can add children's account
+Parent can create tasks
+Parent can remove tasks
+Parent can edit a task
+Parent can rewards doing of tasks
+Parent can reward for good behavior
+Parent can punish lack of task doing
+Parent can punish for bad behavior
+Parent can schedule (calendar) tasks
+Parent can recieve notification of task completion
+Parent can approve (or not) task completion 
+Parents can assign points to a task
+Parents can assign value to good/bad behavior
+Parents can create profile
+Parents can edit profile:  Profile can contain picture, name, age
+Parents can set the length of the task
+Parents can set repeating tasks
+
+
+User can see all available tasks
+User can see points rewarded upon completion
+User can see total points earned
+User can see potential points available
+User can see performance log (% of tasks completed/behavior trends etc.)
+
+
+Child can complete (check off) task 
+Child can login
+Child can logout 
+
+
+Potential:
+Child can add wishlist
+
+User can see money owed
+
+Parents can assign monetary value to a task
+Parents can set and see monetary value of reward set (trip to disneyland has cost)
+***Parents can set mandatory group of tasks e.g. take out the trash every day to get an allowance
+Parents can create groups of children
+Parents can assign a task to a group (must be done by group)
+Parents can give group rewards
+Parents can split group rewards (evenly or unevenly)
+Parents can give badges (no monetary value (**Gold Star**))
+Parents can set status of task (assigned to one child, in pool, optional, frequency)
+Parents can set priority of tasks
+Parents can mandate that children complete certain tasks first
+Parents can set colors to priority tasks
+
+
+Future Features:
+Teacher can add behavioral notes (doesn't have to interact with parents!!)
+Teacher can send files (progress reports)
+
+
+
+
+*** Needs clarification
+
+
+
+Things we need to talk about/implement.  
+
+Stripe?  Not holding CC info but taking payments
+Password resets?  If user loses PW, has desire to change, kid gets pw. 
+Trello? Task Management/Story Board/Work Flow
+Swagger? Back-end bs
